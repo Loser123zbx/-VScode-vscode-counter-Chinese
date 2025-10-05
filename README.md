@@ -2,8 +2,14 @@
 
 VS Code 扩展：用于统计多种编程语言源代码中的空行、注释行和总行数。
 
+# 原仓库与扩展[未汉化]
 * [github](https://github.com/uctakeoff/vscode-counter)
 * [Marketplace](https://marketplace.visualstudio.com/items?itemName=uctakeoff.vscode-counter)
+
+## 汉化版使用教程：
+- 1 下载仓库代码zip文件或`git clone`后压缩成zip格式压缩包
+- 2 把文件扩展名从`.zip`更改到`.vsix
+- 3 打开VScode,打开 扩展 页面，选择`从vsix下载`
 
 ## VSCode Counter 2.0 已发布！
 
